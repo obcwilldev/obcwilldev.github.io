@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "OBC"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://github.com/obcwilldev/obcwilldev.github.io/blob/master/_images/obc.png?raw=true" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Yeah"
   location         : "삼평동 어딘가"
   email            :
